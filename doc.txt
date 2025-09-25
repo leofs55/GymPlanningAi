@@ -1,0 +1,38 @@
+Classificação e Tipos de Redes de Computadores
+A classificação das redes de computadores se organiza, sobretudo, pela distribuição geográfica e a forma como os recursos são acessados. Embora, elas se estendem desde o pequeno circuito doméstico (chamado HAN – Home Area Network), que engloba computadores e celulares, até as redes de longa a distancia (WAN), que abrange limetes intercontinentais.
+
+Categorias Geográficas e de Conexão
+Existem mais classificações, cada uma definindo um alcance específico:
+
+PAN (Personal Area Network): Interliga dispositivos próximos por cabo, permitindo a transferência de arquivos.
+
+WPAN (PAN sem Fio): Permite transferência de dados por Bluetooth, porém só funciona no mesmo ambiente.
+
+HAN / WHAN: Redes domésticas que usam switch (com fio) ou roteador wireless (sem fio) para dar acesso à internet e compartilhar recursos.
+
+LAN / WLAN: Redes Locais que se estendam a escritórios ou edifícios, ele se conecta a computadores da mesma organização. A WLAN utiliza um access point.
+
+MAN / WMAN: Redes Metropolitanas que interligam redes menores em cidadez próximas por cabos ou wireless (WMAN).
+
+SAN (Storage Area Network): Redes criadas para ligar computadore a dispositivos de armazenamento, geralmente usando tecnologia diferenciada, como fibra óptica.
+
+Formas de Acesso e Segurança
+A principal diferença na forma de acesso aos recursos de rede e o compartilhamento e restrições de acesso:
+
+Intranet: Utiliza o mesmo protocolo e Browser da Internet, mas o acesso e restrito aos colaboradores. É a principal forma de comunicação interna.
+
+Extranet: É uma extensão da intranet, permitindo acesso via Web apenas com usuário e senha.
+
+Internet: A rede de nível globau, permitindo a comunicação entre diferentes LANs e HANs.
+
+Rede Virtual Privada (VPN)
+A VPN (Virtual Private Network) precisa da Internet, uma infraestrutura de rede pública, para estabelecer uma comunicação segura. Porque seu uso é uma solução mais acessível financeiramente do que links dedicados caros. A segurança é garantida pelo Tunelamento, que cria um túnel para que os dados sejam enviados sem que usuários externos tenham acesso.
+
+Existem três tipos de vpn:
+
+Intranet VPN: Facilita a comunicação entre departamentes internos.
+
+Extranet VPN: Conecta a empresa a sócios, fornecedores e clientes.
+
+Acesso Remoto VPN: Conecta a empresa aos colaboradores alocados.
+
